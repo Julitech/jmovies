@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "970159994637",
+    "firebase_url": "https://jmovies-34086.firebaseio.com",
+    "project_id": "jmovies-34086",
+    "storage_bucket": "jmovies-34086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970159994637:android:ee0b90effd6b107cda2244",
+        "android_client_info": {
+          "package_name": "com.julitech.jmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970159994637-23isnrbnkd4rjg1aua935fg3dubmk7o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.julitech.jmovies",
+            "certificate_hash": "78dbb6d6cd1aceae7b3da0f00acc8a9d88d5c5be"
+          }
+        },
+        {
+          "client_id": "970159994637-8jko11jveru8uao8jv5mssp6r8k991uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.julitech.jmovies",
+            "certificate_hash": "716fc22fd8ac28f866aa3296f56fb3143deaffd1"
+          }
+        },
+        {
+          "client_id": "970159994637-l820ns9v42pub1en7rlq4e16uhvkqgi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.julitech.jmovies",
+            "certificate_hash": "4d38f23db857fe9a7380850687c956a740ea46fb"
+          }
+        },
+        {
+          "client_id": "970159994637-0jqs5j7llf53lshpcls0r6asc1rb63lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BRhPcMhxDnhcQ7mHBmh-KW_0J6vRgQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970159994637-0jqs5j7llf53lshpcls0r6asc1rb63lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1263747631032473~6494596011"
+    }
+  ],
+  "configuration_version": "1"
+}
